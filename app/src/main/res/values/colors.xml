@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="boxBg">#9e333333</color>
+    <color name ="txtWhite">#ffffff</color>
+    <color name ="txtLight">#a6a6a6</color>
+    <color name ="txtMedium">#737373</color>
+    <color name ="twitterBlue">#1da1f2</color>
+</resources>
